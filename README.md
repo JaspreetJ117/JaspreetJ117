@@ -11,4 +11,4 @@ Aspiring software developer passionate about building scalable, efficient, and u
 
 ##
 
-![JaspreetJ117's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetJ117&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)[![GitHub Streak](https://streak-stats.demolab.com?user=JaspreetJ117&theme=hacker&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) 
+![JaspreetJ117's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetJ117&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)[![GitHub Streak](https://streak-stats.demolab.com?user=JaspreetJ117&theme=hacker&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)![JaspreetJ117's Stats](https://github-readme-stats.vercel.app/api?username=JaspreetJ117&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
