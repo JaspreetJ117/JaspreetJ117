@@ -1,6 +1,8 @@
 # Hi, I'm Jaspreet 👋  
 
-Aspiring software developer passionate about building scalable, efficient, and user-friendly solutions. Always learning and open to exciting opportunities in tech.  
+Aspiring software developer passionate about building scalable, efficient, and user-friendly solutions. I enjoy solving real-world problems with clean, reliable code and constantly exploring new technologies to grow as a developer. Always learning and open to exciting opportunities in tech.  
+
+🎓 **Education:** Pursuing a Double Degree in Computer Science and Finance at Wilfrid Laurier University. 
 
 📌 Check out my **pinned projects** below to see what I’ve been working on!  
 
