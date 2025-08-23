@@ -17,3 +17,8 @@ Aspiring software developer passionate about building scalable, efficient, and u
 [![GitHub Streak](https://streak-stats.demolab.com?user=JaspreetJ117&theme=hacker&hide_border=true&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
