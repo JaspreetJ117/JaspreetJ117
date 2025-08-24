@@ -17,4 +17,3 @@ Aspiring software developer passionate about building scalable, efficient, and u
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaspreetJ117&theme=high-contrast&hide_border=false" style="border-radius: 15px;">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JaspreetJ117&theme=hacker)](https://git.io/streak-stats)
