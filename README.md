@@ -1,3 +1,7 @@
+![banner](banner.png)
+
+
+
 # Hi, I'm Jaspreet 👋  
 
 A Software developer passionate about building scalable, efficient, and user-friendly solutions. I enjoy solving real-world problems with clean, reliable code and constantly exploring new technologies to grow as a developer. Always learning and open to exciting opportunities in tech.  
