@@ -8,9 +8,10 @@ A Software developer passionate about building scalable, efficient, and user-fri
 
 📌 **Check out my **pinned projects** below to see what I’ve been working on!**
 
+📫 **Connect with me:** 
 <div align="center">
 
-📫 **Connect with me:**  
+ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspreetj117/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jjawanda.me)  
