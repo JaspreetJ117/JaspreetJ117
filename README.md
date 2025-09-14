@@ -9,15 +9,7 @@ A Software developer passionate about building scalable, efficient, and user-fri
 📌 **Check out my **pinned projects** below to see what I’ve been working on!**
 
 
-<div align="center">
 
-📫 **Connect with me:**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspreetj117/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jjawanda.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JaspreetJawanda@proton.me)
-
-</div>
 
 
 
@@ -33,3 +25,15 @@ A Software developer passionate about building scalable, efficient, and user-fri
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaspreetJ117&theme=high-contrast&hide_border=false" style="border-radius: 15px;">
 </div>
 
+
+##
+
+<div align="center">
+
+📫 **Connect with me:**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaspreetj117/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jjawanda.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JaspreetJawanda@proton.me)
+
+</div>
