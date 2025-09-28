@@ -20,8 +20,6 @@ A Software developer passionate about building scalable, efficient, and user-fri
 ##
 
 <div align="center">
-
-![JaspreetJ117's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetJ117&theme=highcontrast&show_icons=true&hide_border=true&layout=compact) [![GitHub Streak](https://streak-stats.demolab.com?user=JaspreetJ117&theme=hacker)](https://git.io/streak-stats)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaspreetJ117&theme=high-contrast&hide_border=false" style="border-radius: 15px;">
 </div>
 
