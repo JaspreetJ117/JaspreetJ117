@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="banner" style="max-width: 100%; height: auto;">
+  <img src="banner.GIF" alt="banner" style="max-width: 100%; height: auto;">
 </p>
 
 # Hi, I'm Jaspreet 👋  
