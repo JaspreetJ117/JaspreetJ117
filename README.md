@@ -35,3 +35,6 @@ A Software developer passionate about building scalable, efficient, and user-fri
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JaspreetJawanda@proton.me)
 
 </div>
+<p align="center">
+  <img src="pac.GIF" alt="banner" style="max-width: 100%; height: auto;">
+</p>
